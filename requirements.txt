@@ -1,0 +1,3 @@
+telethon
+python-decouple
+requests
